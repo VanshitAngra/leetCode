@@ -1,3 +1,4 @@
+//1945
 import java.util.Scanner;
 
 public class sumofdigitstring {

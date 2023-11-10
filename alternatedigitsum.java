@@ -1,3 +1,4 @@
+//2544
 import java.util.Scanner;
 
 public class alternatedigitsum {

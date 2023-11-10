@@ -6,8 +6,6 @@ public class averageevenno {
         Scanner ob=new Scanner(System.in);
         int n=ob.nextInt();
         int[] nums=new int[n];
-        int indexDifference=ob.nextInt();
-        int valueDifference=ob.nextInt();
         for(int i=0;i<n;i++)
         {
             nums[i]=ob.nextInt();

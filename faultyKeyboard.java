@@ -1,3 +1,4 @@
+//2810
 import java.util.Scanner;
 
 public class faultyKeyboard {

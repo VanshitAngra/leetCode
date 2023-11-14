@@ -1,5 +1,5 @@
-import java.util.Scanner;
-
+import java.util.*;
+//832
 public class inverImage {
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);

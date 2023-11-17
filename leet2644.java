@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 //2644
 public class leet2644 {
     public static void main(String[] args) {
@@ -27,15 +27,15 @@ public class leet2644 {
             }
             if(c>a)
             {
-            a=c;
-            aa=divisors[i];
+                a=c;
+                    aa=divisors[i];
             }
             else if(c==a)
             {
                 aa=Math.min(aa,divisors[i]);
             }
         }
-        System.out.println(aa);
         ob.close();
+        System.out.println(aa);
     }
 }

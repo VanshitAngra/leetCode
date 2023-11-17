@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-
+//2553
 public class seprate {
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);

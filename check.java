@@ -1,8 +1,5 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Scanner;
-
+import java.util.*;
+//1941
 public class check {
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);

@@ -5,7 +5,7 @@ public class leet1941 {
         Scanner ob=new Scanner(System.in);
         String s=ob.next();
         s+="{";
-         List<Integer> n=new ArrayList<>();
+        List<Integer> n=new ArrayList<>();
         char[] c=s.toCharArray();
         Arrays.sort(c);
         int a=0;
@@ -22,9 +22,8 @@ public class leet1941 {
             }
             else
             {
-            n.add(a);
-            a=0;
-
+                n.add(a);
+                a=0;
             }
         }
         System.out.println(String.valueOf(n));

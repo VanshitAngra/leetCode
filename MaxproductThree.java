@@ -1,6 +1,5 @@
-import java.util.Arrays;
-import java.util.Scanner;
-
+import java.util.*;
+//628
 public class MaxproductThree {
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);

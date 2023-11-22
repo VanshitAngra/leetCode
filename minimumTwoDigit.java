@@ -1,5 +1,5 @@
-import java.util.Arrays;
-import java.util.Scanner;
+//2605
+import java.util.*;
 
 public class minimumTwoDigit {
     public static void main(String[] args) {
@@ -15,7 +15,8 @@ public class minimumTwoDigit {
         for(int i=0;i<m;i++)
         {
             nums2[i]=ob.nextInt();
-        }ob.close();
+        }
+        ob.close();
         Arrays.sort(nums1);
         Arrays.sort(nums2);
         for(int i=0;i<n;i++)

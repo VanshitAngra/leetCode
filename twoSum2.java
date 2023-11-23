@@ -1,4 +1,5 @@
-import java.util.Scanner;
+import java.util.*;
+//167
 
 public class twoSum2 {
     public static void main(String[] args) {

@@ -9,7 +9,7 @@ public class reverseString {
         char[] s=new char[n];
         for(int i=0;i<n;i++)
         {
-            s[i]=ob.next().charAt(1);
+            s[i]=ob.next().charAt(0);
         }
         ob.close();
         for(int i=0;i<s.length/2;i++)
@@ -18,5 +18,6 @@ public class reverseString {
             s[i]=s[s.length-1-i];
             s[s.length-1-i]=t;
         }
+        System.out.println(String.valueOf(s));
     }
 }

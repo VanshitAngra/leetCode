@@ -28,6 +28,6 @@ public class twoSum2 {
             else
             l++;
         }
-        System.out.println(arr);
+        System.out.println(Arrays.toString(arr));
     }
 }

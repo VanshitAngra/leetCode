@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Scanner;
 //2553
 public class seprate {
@@ -31,6 +32,6 @@ public class seprate {
         {
             res[i]=a.get(i);
         }
-        System.out.println(String.valueOf(res));
+        System.out.println(Arrays.toString(res));
     }
 }

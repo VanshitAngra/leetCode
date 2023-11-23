@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 //917
 /**
@@ -29,6 +30,6 @@ public class revonlyletters {
                 r--;
             }
         }
-        System.out.println(String.valueOf(s));
+        System.out.println(Arrays.toString(s));
     }
 }

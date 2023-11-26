@@ -1,7 +1,7 @@
 //263
 import java.util.Scanner;
 
-public class uglynumber {
+public class leet263 {
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);
         int n=ob.nextInt();

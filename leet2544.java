@@ -1,7 +1,7 @@
 //2544
 import java.util.Scanner;
 
-public class alternatedigitsum {
+public class leet2544 {
     public static int alternateDigitSum(int n) {
         int sum=0,c=1;
         String s=n+"";

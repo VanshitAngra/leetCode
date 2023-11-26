@@ -1,4 +1,5 @@
-import java.util.Scanner;
+//imp revise
+import java.util.*;
 
 public class leet541 {
     public static void reverse(char[] arr,int i,int j)

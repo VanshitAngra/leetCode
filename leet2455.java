@@ -1,7 +1,7 @@
 //2455
-import java.util.Scanner;
+import java.util.*;
 
-public class averageevenno {
+public class leet2455 {
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);
         int n=ob.nextInt();

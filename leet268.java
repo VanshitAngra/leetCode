@@ -1,6 +1,6 @@
 import java.util.Scanner;
-
-public class missingNumber {
+//268
+public class leet268 {
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);
         int n=ob.nextInt();

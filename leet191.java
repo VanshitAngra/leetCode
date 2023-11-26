@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * bitCount
  */
-public class bitCount {
+public class leet191 {
 
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);

@@ -1,7 +1,7 @@
 //258
 import java.util.Scanner;
 
-public class addDigits {
+public class leet258 {
     static int sol(int num)
     {
         if(num==0)

@@ -1,6 +1,6 @@
 import java.util.*;
 //1941
-public class check {
+public class leet1941 {
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);
         String s=ob.next();

@@ -2,7 +2,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class containsDuplicate {
+public class leet217 {
     public static boolean duplicate(int[] nums) {
         Arrays.sort(nums);
         for(int i=1;i<nums.length;i++)

@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class leet1342 {
     public static int numberOfSteps(int num) {

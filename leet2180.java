@@ -1,7 +1,7 @@
 //2180
 import java.util.Scanner;
 
-public class countintegrswithevendigits {
+public class leet2180 {
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);
         int num=ob.nextInt();

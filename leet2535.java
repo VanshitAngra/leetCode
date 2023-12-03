@@ -1,6 +1,6 @@
 import java.util.Scanner;
 //2535
-public class difference {
+public class leet2535 {
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);
         int n=ob.nextInt();

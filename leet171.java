@@ -2,7 +2,7 @@
 //* 
 import java.util.Scanner;
 
-public class excelSheet {
+public class leet171 {
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);
         String s=ob.next();

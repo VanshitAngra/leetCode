@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class leet2485 {
     public static int pivotInteger(int n) {

@@ -1,7 +1,7 @@
 //2810
 import java.util.Scanner;
 
-public class faultyKeyboard {
+public class leet2810 {
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);
         String s=ob.next();

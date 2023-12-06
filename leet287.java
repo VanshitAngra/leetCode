@@ -3,7 +3,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class findDuplicate {
+public class leet287 {
     public static void main(String[] args) {
        Scanner ob=new Scanner(System.in);
        int n=ob.nextInt();

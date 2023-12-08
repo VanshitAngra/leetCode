@@ -1,7 +1,7 @@
 //202
 import java.util.Scanner;
 
-public class happynumber {
+public class leet202 {
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);
         int n=ob.nextInt();

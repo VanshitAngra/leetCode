@@ -1,6 +1,6 @@
 import java.util.*;
 //832
-public class inverImage {
+public class leet832 {
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);
         int n=ob.nextInt();

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 //2644
-public class maximumdivisibility {
+public class leet2644 {
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);
         int n=ob.nextInt();

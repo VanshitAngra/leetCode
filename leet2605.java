@@ -1,7 +1,7 @@
 //2605
 import java.util.*;
 
-public class minimumTwoDigit {
+public class leet2605 {
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);
         int n=ob.nextInt();

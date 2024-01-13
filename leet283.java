@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class moveZeros {
+public class leet283 {
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);
         int n=ob.nextInt();

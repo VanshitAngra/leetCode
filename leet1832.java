@@ -1,7 +1,7 @@
 //1832
 import java.util.Scanner;
 
-public class panagram {
+public class leet1832 {
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);
         int f=0;

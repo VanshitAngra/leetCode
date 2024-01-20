@@ -1,7 +1,7 @@
 //342
 import java.util.Scanner;
 
-public class powerOf4 {
+public class leet342 {
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);
         int n=ob.nextInt();

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class powerOfthree {
+public class leet326 {
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);
         int n=ob.nextInt();

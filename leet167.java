@@ -1,7 +1,7 @@
 import java.util.*;
 //167
 
-public class twoSum2 {
+public class leet167 {
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);
         int a=ob.nextInt();

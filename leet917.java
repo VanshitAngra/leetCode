@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  * revonlyletters
  */
-public class revonlyletters {
+public class leet917 {
 
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);

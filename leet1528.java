@@ -1,7 +1,7 @@
 //1528
 import java.util.Scanner;
 
-public class shuffleString {
+public class leet1528 {
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);
         String s=ob.next();

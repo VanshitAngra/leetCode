@@ -1,8 +1,7 @@
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Scanner;
+import java.util.*;
 //2553
-public class seprate {
+public class leet2553 {
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);
         int n=ob.nextInt();

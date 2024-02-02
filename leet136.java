@@ -1,7 +1,7 @@
 //136
 import java.util.Scanner;
 
-public class singleNumber {
+public class leet136 {
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);
         int n=ob.nextInt();

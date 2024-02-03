@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class leetcode2427 {
+public class leet2427 {
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);
         int a=ob.nextInt();

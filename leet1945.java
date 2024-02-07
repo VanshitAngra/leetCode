@@ -1,7 +1,7 @@
 //1945
 import java.util.Scanner;
 
-public class sumofdigitstring {
+public class leet1945 {
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);
         String s=ob.next();

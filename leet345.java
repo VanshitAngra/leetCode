@@ -1,7 +1,7 @@
 //345
 import java.util.Scanner;
 
-public class swapVowels {
+public class leet345 {
     public static void main(String[] args) {
         Scanner ob=new Scanner(System.in);
         String str=ob.next();

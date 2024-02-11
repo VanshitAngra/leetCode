@@ -1,7 +1,5 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Scanner;
+
+import java.util.*;
 
 public class leet561 {
      public static int arrayPairSum(int[] nums) {

@@ -1,5 +1,5 @@
 //551
-import java.util.Scanner;
+import java.util.*;
 
 public class leet551 {
     public static void main(String[] args) {

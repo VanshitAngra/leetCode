@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class leet557 {
     public static String reverse(String s)

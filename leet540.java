@@ -1,5 +1,7 @@
+import java.util.Scanner;
+
 public class leet540 {
-    public int singleNonDuplicate(int[] nums) {
+    public static int singleNonDuplicate(int[] nums) {
         int l=0;int r=nums.length-1;
         while(l<r)
         {
@@ -14,6 +16,14 @@ public class leet540 {
         return nums[l];
     }
     public static void main(String[] args) {
-        
+        Scanner ob=new Scanner(System.in);
+        int n=ob.nextInt();
+        int[] a=new int[n];
+        for(int i=0;i<n;i++)
+        {
+            a[i]=ob.nextInt();
+        }
+        ob.close();
+        System.out.println(singleNonDuplicate(a));
     }
 }

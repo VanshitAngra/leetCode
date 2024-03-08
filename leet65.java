@@ -1,5 +1,7 @@
+import java.util.Scanner;
+
 public class leet65 {
-    public boolean isNumber(String s) {
+    public static boolean isNumber(String s) {
         boolean num=false;
         boolean exp=false;
         boolean dot=false;
@@ -36,6 +38,9 @@ public class leet65 {
         return num;
     }
     public static void main(String[] args) {
-        
+        Scanner ob=new Scanner(System.in);
+        String s=ob.nextLine();
+        ob.close();
+        System.out.println(isNumber(s));
     }
 }

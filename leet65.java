@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class leet65 {
     public static boolean isNumber(String s) {

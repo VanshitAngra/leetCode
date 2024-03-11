@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class leet477 {
     public static int totalHammingDistance(int[] nums) {
@@ -19,7 +19,7 @@ public class leet477 {
         {
             a[i]=ob.nextInt();
         }
-        ob.close();
         System.out.println(totalHammingDistance(a));
+        ob.close();
     }
 }

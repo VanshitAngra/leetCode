@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class leet151 {
     public String reverseWords(String s) {
         String[] arr=s.trim().split("\\s+");
@@ -12,6 +14,9 @@ public class leet151 {
         return a;
     }
     public static void main(String[] args) {
-        
+        Scanner ob=new Scanner(System.in);
+        String s=ob.nextLine();
+        System.out.println(reverseWords(s));
+        ob.close();
     }
 }

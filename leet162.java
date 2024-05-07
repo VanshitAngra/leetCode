@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class leet162 {
     public int findPeakElement(int[] nums) {
         if(nums.length==1)
@@ -12,6 +14,15 @@ public class leet162 {
         return 0;
     }
     public static void main(String[] args) {
-        
+        Scanner ob=new Scanner(System.in);
+        int n=ob.nextInt();
+        int[] a=new int[n];
+        for(int i=0;i<n;i++)
+        {
+            a[i]=ob.nextInt();
+        }
+        ob.close();
+        System.out.println(findPeakElement(a));
     }
+    
 }
